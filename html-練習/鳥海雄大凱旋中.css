@@ -1,0 +1,17 @@
+body {
+  background-color: #ccc;
+}
+h1 {
+  background-color: #187c31;
+  text-align: center;
+  border-left: auto;
+  border-right: auto;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.footer {
+  text-align: right;
+}
